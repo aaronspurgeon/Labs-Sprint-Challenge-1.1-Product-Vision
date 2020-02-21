@@ -28,9 +28,12 @@ Copy and paste these prompts into a `Google Doc`. Steps on how to create a googl
 ### Prompt 1
 
 Describe the conversations you had this sprint with your product owner(s) and team.
+Conversations with the product owner consisted of lectures on how succeed in Labs. Conversations with the team were really positive and everyone was eager to contribute and get started on their product.
 
 - Describe the product and features you plan to deliver.
+  My team and I are planning on delivering a chrome extension that allows you to easily save jobs that you apply to. We are going to be writing it in React and Typescript for the front end and Node on that back end. A core feature we all agreed on that should be MVP for release is a kanban board that allows you to see a list of jobs you have applied to and change them to interviewing or job offered further down the line. Basic CRUD capabilities. Also upon saving the job you are able to rank the job depending on how invested you are in that posting and on your dashboard they will be ranked accordingly.
 - How did these conversations determine the features you will deliver during Labs?
+  In the beginning I wasnt so sure how we would be able to deliver this application but with extensive research in the competitive market we came accross an app that seems to do everything right. We want to utilize what they are doing right, while expanding on some of the ideas they initially had.
 - How did your discussions change the way you viewed the product?
 
 ### Prompt 2
@@ -38,6 +41,7 @@ Describe the conversations you had this sprint with your product owner(s) and te
 Describe the technical or design discussions that shaped the long-term product vision.
 
 - **For data scientists and engineers:** Describe the technologies that you will use to build this product. Why do they fit the product vision?
+  Not much has changed the way I viewed the product. I was excited when I first saw that I would be working on an extension since it'll be my first, and after conversations I feel more excited than ever.
 - **For UX designers:** Describe the questions that you are asking during user research. Why have you selected these questions to ask? What is the problem your team is trying to solve?
 
 You are expected to be able to answer all these questions. Your responses contribute to your Journal Entry grade. Skipping this section _will_ prevent you from passing this challenge.
